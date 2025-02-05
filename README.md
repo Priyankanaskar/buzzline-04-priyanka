@@ -69,10 +69,12 @@ Windows:
 py -m producers.basic_json_producer_case
 ```
 or
-```py -m producers.json_producer_case
+```shell
+py -m producers.json_producer_case
 ```
 or
-```py -m producers.csv_producer_case
+```shell
+py -m producers.csv_producer_case
 ```
 
 
@@ -95,11 +97,11 @@ Windows:
 py -m consumers.basic_json_consumer_case
 ```
 or
-```
+```shell
 py -m consumers.json_consumer_case
 ```
 or
-```
+```shell
 py -m consumers.csv_consumer_case
 ```
 
