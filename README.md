@@ -68,6 +68,13 @@ Windows:
 .venv\Scripts\activate
 py -m producers.basic_json_producer_case
 ```
+or
+```py -m producers.json_producer_case
+```
+or
+```py -m producers.csv_producer_case
+```
+
 
 Mac/Linux:
 ```zsh
@@ -86,6 +93,14 @@ Windows:
 ```shell
 .venv\Scripts\activate
 py -m consumers.basic_json_consumer_case
+```
+or
+```
+py -m consumers.json_consumer_case
+```
+or
+```
+py -m consumers.csv_consumer_case
 ```
 
 Mac/Linux:
