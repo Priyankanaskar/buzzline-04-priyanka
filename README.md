@@ -104,7 +104,8 @@ or
 ```shell
 py -m consumers.csv_consumer_case
 ```
-
+```py -m consumers.project_consumer_priya
+```
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
